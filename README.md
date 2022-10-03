@@ -10,5 +10,5 @@ halo reihan gayanteng
 
 kalo pake "merge branch" trus pilih main, biso sync \
 btw moga joe tajir melintir
-
+amin
 test lagiiii aghhh bosen ak tes tes
