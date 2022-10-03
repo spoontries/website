@@ -9,6 +9,6 @@ tes 12345
 halo reihan gayanteng
 
 kalo pake "merge branch" trus pilih main, biso sync \
-btw moga joe jomblo seumur hidup
+btw moga joe tajir melintir
 
 test lagiiii aghhh bosen ak tes tes
