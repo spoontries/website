@@ -10,3 +10,5 @@ halo reihan gayanteng
 
 kalo pake "merge branch" trus pilih main, biso sync \
 btw moga joe jomblo seumur hidup
+
+test lagiiii aghhh bosen ak tes tes
